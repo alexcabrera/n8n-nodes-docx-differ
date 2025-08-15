@@ -1,6 +1,6 @@
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
-# n8n-nodes-starter
+# n8n-nodes-docx-diff
 
 This repo contains example nodes to help you get started building your own custom integrations for [n8n](https://n8n.io). It includes the node linter and other dependencies.
 
@@ -22,7 +22,7 @@ You need the following installed on your development machine:
 
 ## Using this starter
 
-These are the basic steps for working with the starter. For detailed guidance on creating and publishing nodes, refer to the [documentation](https://docs.n8n.io/integrations/creating-nodes/).
+Generate a DOCX with tracked changes from two DOCX binaries so Google Docs shows Suggestions.
 
 1. [Generate a new repository](https://github.com/n8n-io/n8n-nodes-starter/generate) from this template repository.
 2. Clone your new repo:
